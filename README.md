@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Jessy Vetter. I am a system and network engineer, based in France.
+My name is Jessy Vetter. I am a senior network engineer working at Microsoft.
 Here you'll find code related to Network Reliability Engineering (NRE), including scripts, Ansible and Terraform configurations.
 
 📖 **Blog posts**
